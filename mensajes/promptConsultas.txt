@@ -1,0 +1,171 @@
+310001 - MÓDULO 1 CIRUGÍA UROLÓGICA DE RIÑÓN: Nefroureterectomia con cistectomía parcial, Nefrectomía parcial incluye quistectomia renal, Nefrectomía total o radical, Cirugía de traumatismo renal.
+310002 - MÓDULO 2 CIRUGÍA UROLÓGICA DE RIÑÓN: Nefrectomía total o radical con/sin trombo venoso.
+310003 - MÓDULO CIRUGÍA UROLÓGICA DE URETER Y URETRA: Uretroplastia, Ureteroscopía diagnóstica, Ureteroscopía con litotricia ureteral neumática o ultrasónica, Ureteroscopía con láser Holmium, Pieloplastia, Plástica del uréter, Ureterectomía segmentaria, Reimplante ureterovesical, Ureterolitotomía, Reemplazo del uréter por intestino, Resección percutánea de tumor piélico, Uretrotomia interna, Meato perineal.
+310004 - MÓDULO CIRUGÍA UROLOGICA DE VEJIGA: Cistectomía total/radical con derivación ureteral simple o con neovejiga ortotópica o heterotópica, Cistolitotomía, Cistolitotripsia endoscópica, Resección de lesión vesical endoscópica.
+310005 - MÓDULO CIRUGÍA UROLOGICA DE PRÓSTATA: Adenomectomia de Próstata.
+310006 - MÓDULO CIRUGÍA UROLÓGICA – LITOTRICIA EXTRACORPOREA POR ONDAS DE CHOQUE (LEOC): Litotricia extracorpórea por ondas de choque a riñón o uréter.
+310007 - MODULO DE PENECTOMIA TOTAL O PARCIAL CON O SIN NEOGLANDE: Penectomía total o parcial.
+310008 - MODULO DE PENECTOMIA TOTAL O PARCIAL CON VACIAMIENTO GANGLIONAR: Penectomía total o parcial con vaciamiento ganglionar.
+310009 - MODULO DE BIOPSIA RENAL PERCUTANEA: Biopsia renal percutánea.
+310010 - MODULO DE CAVERNOSOTOMIA. PUNCION DE LOS CUERPOS CAVERNOSOS. SHUNT DISTAL CC-GLANDE: Cavernosotomía, Punción de los cuerpos cavernosos, Shunt distal CC-glande.
+310011 - MODULO DE CISTECTOMIA PARCIAL: Cistectomía parcial.
+310012 - MODULO DE CISTOPLASTIA DE AMPLIACION: Cistoplastia de ampliación.
+310013 - MODULO DE COLOCACION DE CATETER DOBLE JOTA ENDOSCOPICO: Incluye cistoscopia.
+310014 - MODULO DE COLOCACION DE ESFINTER URINARIO ARTIFICIAL: Colocación de esfínter urinario artificial.
+310015 - MODULO DE COLOCACION DE SLING SUBURETRAL: Colocación de sling suburetral.
+310016 - MODULO DE CORRECCION QUIRURGICA DEL PROLAPSO GENITAL POR VIA VAGINAL: Corrección quirúrgica del prolapso genital por vía vaginal.
+310017 - MODULO DE DRENAJE DE ABSCESO TESTICULAR, TRAUMATISMO TESTICULAR, ORQUIECTOMIA POR TRAUMATISMO / FORMACION TESTICULAR: Drenaje de absceso testicular, tratamiento de traumatismo testicular, orquiectomía por traumatismo.
+310018 - MODULO DE ELECTROCOAGULACION O RESECCION ENDOSCOPICA DE TUMORES URETRALES, VERU MONTANUM O VALVULAS URETRALES: Electrocoagulación o resección endoscópica de tumores uretrales, veru montanum o válvulas uretrales.
+310019 - MODULO DE EPIDIDIMECTOMIA UNI O BILATERAL: Epididimectomía uni o bilateral.
+310020 - MODULO DE EPIDIDIMOVASOSTOMIA. ANASTOMOSIS DEL CONDUCTO DEFERENTE POR OBSTRUCCION O POR VASECTOMIA: Epididimovasostomía, anastomosis del conducto deferente por obstrucción o por vasectomía.
+310021 - MODULO DE NEFROLITOTOMIA PERCUTANEA (INCLUYE MINIPERCUTANEA CON O SIN HOLMIUM): Nefrolitotomía percutánea, incluye minipercutánea con o sin Holmium.
+310022 - MODULO DE NEFROSTOMIA PERCUTANEA CON O SIN NEFROSCOPIA / NEFROPEXIA / PIELOGRAFIA DESCENDENTE: Nefrostomía percutánea con o sin nefroscopía, nefropexia, pielografía descendente.
+310023 - MODULO DE ORQUIECTOMIA UNI O BILATERAL. SIMPLE O RADICAL: Orquiectomía uni o bilateral, simple o radical.
+310024 - MODULO DE POSTIOPLASTIA. INCLUYE FRENULOPLASTIA.PREPUCIAL: Postioplastia, incluye frenuloplastia prepucial.
+310025 - MODULO DE RECAMBIO DE NEFROSTOMIA: Recambio de nefrostomía.
+310026 - MODULO DE RESECCION TRANSURETRAL DE FIBROSIS Y CICATRICES POST ADENOMECTOMIA: Resección transuretral de fibrosis y cicatrices post adenomectomía.
+310027 - MODULO DE RESECCION TRANSURETRAL DE PROSTATA Y/O CUELLO VESICAL: Resección transuretral de próstata y/o cuello vesical.
+310028 - MODULO DE RETIRO DE SLING SUBURETRAL O CORRECCION: Retiro de sling suburetral o corrección.
+310029 - MODULO DE SHUNT CAVERNOSO ESPONJOSO O CAVERNOSO SAFENO: Shunt cavernoso esponjoso o cavernoso safeno.
+310030 - MODULO DE TRATAMIENTO QUIRURGICO DEL VARICOCELE: Tratamiento quirúrgico del varicocele.
+310031 - MODULO DE TRATAMIENTO DE LA FALTA DE DESCENSO TESTICULAR / CRIPTORQUIDIA BILATERAL: Tratamiento de la falta de descenso testicular / criptorquidia bilateral.
+310032 - MODULO DE TRATAMIENTO DE LA FALTA DE DESCENSO TESTICULAR / CRIPTORQUIDIA UNILATERAL: Tratamiento de la falta de descenso testicular / criptorquidia unilateral.
+310033 - MODULO DE TRATAMIENTO DE LA INCONTINENCIA DE ORINA EN LA MUJER O PROLAPSO GENITAL POR VIA ABDOMINAL (MARSHALL - MARCHETTI - BURCH): Tratamiento de la incontinencia de orina en la mujer o prolapso genital por vía abdominal.
+310034 - MODULO DE TRATAMIENTO QUIRURGICO DE LA FISTULA VESICOCUTANEA: Tratamiento quirúrgico de la fístula vesicocutánea.
+310035 - MODULO DE TRATAMIENTO QUIRURGICO DE LA FISTULA VESICOINTESTINAL CON O SIN RESECCION INTESTINAL, VESICOVAGINAL/VESICOUTERINA: Tratamiento quirúrgico de la fístula vesicointestinal con o sin resección intestinal, vesicovaginal/vesicouterina.
+310036 - MODULO DE TRATAMIENTO QUIRURGICO DE LA FISTULA URETEROINTESTINAL, URETEROVAGINAL Y/O URETEROCUTANEA: Tratamiento quirúrgico de la fístula ureterointestinal, ureterovaginal y/o ureterocutánea.
+310037 - MODULO DE TRATAMIENTO QUIRURGICO DEL HIDROCELE, TORSION DE CORDON O QUISTE DE CORDON O DEL EPIDIDIMO: Tratamiento quirúrgico del hidrocele, torsión de cordón o quiste de cordón o del epidídimo.
+310038 - MODULO DE URETROTOMIA INTERNA CON CUCHILLA, ANSA O LASER: Uretrotomía interna con cuchilla, ansa o láser.
+310039 - MODULO DE VASECTOMIA: Vasectomía.
+310040 - MODULO DE CISTOSTOMIA PERCUTANEA – TALLA VESICAL: Cistostomía percutánea – talla vesical.
+310041 - MODULO DE CISTOSTOMIA ABIERTA – TALLA VESICAL: Cistostomía abierta – talla vesical.
+301001 - MODULO 1 DE CIRUGIA ESOFAGICA: Esofaguectomía total sin reconstrucción por perforación esofágica traumática o espontánea de causa benigna.
+301002 - MODULO 2 DE CIRUGIA ESOFAGICA: Operación anti reflujo, Nissen o similar, Operación de Heller más funduplicatura, Esofagorrafia cervical o torácica más drenaje, Escisión de divertículo esofágico intratorácico o tumor benigno de esófago, Escisión de divertículo esofágico cervical.
+301003 - MODULO 3 DE CIRUGIA ESOFAGICA: Esofagostomía temporaria o definitiva, Cierre de esofagostoma de causa traumática o tumoral benigna.
+301004 - MODULO 1 DE CIRUGIA GASTRICA Y DUODENAL: Gastrectomía subtotal o re gastrectomía, Resección segmentaria de duodeno, Cierre de fistulas duodenales.
+301005 - MODULO 2 DE CIRUGIA GASTRICA Y DUODENAL: Gastrotomía más gastrorrafia más piloroplastía y/o piloromiotomía, Duodenotomía más duodenorrafia.
+301006 - MODULO 3 DE CIRUGIA GASTRICA Y DUODENAL: Devolvulación gástrica y gastropexia.
+301007 - MODULO 4 DE CIRUGIA GASTRICA Y DUODENAL: Gastrotomía para alimentación por todas las técnicas.
+301008 - MODULO 1 DE CIRUGIA DE INTESTINO DELGADO: Cierre y reparación de fistulas enterocutáneas simples y complejas, Enterectomía total.
+301009 - MODULO 2 DE CIRUGIA DE INTESTINO DELGADO: Enterectomia de yeyuno o íleon, Derivaciones intestinales como única operación.
+301010 - MODULO 3 DE CIRUGIA DE INTESTINO DELGADO: Plicatura de intestino delgado, Laparotomía exploradora y enterolisis, Drenaje de absceso interasas, Escisión del divertículo de Meckel.
+301011 - MODULO 4 DE CIRUGIA DE INTESTINO DELGADO: Ileostomía de alimentación, Realización de ostomía de derivación en el intestino delgado, Ileostomía terminal o en asa, Cierre o plástica de ileostomía, Reconfección de ileostomia por complicación previa.
+301012 - MODULO 1 DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Resección de cabeza de páncreas con conservación duodenal, Anastomosis biliodigestivas complejas y reparaciones de la vía biliar.
+301013 - MODULO 2 DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Pancreatectomía mediana.
+301014 - MODULO 3 DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Hepatectomía parcial, Resección de tumores hepáticos benignos, Sutura o taponaje de hígado por traumatismo, Papilotomía quirúrgica, Wirzungyeyunoanastomosis, Anastomosis pancreática-digestiva.
+301015 - MODULO 4 DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Colecistectomía + coledocotomía e instrumentación de vía biliar, Coledocotomía como único procedimiento quirúrgico, Anastomosis biliodigestiva simple, Enucleación de tumores benignos del páncreas, Secuestrectomía pancreática, Necrosectomía pancreática.
+301016 - MODULO 5 DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Hepatostomía, Sutura de páncreas, Biopsia de páncreas.
+301017 - MODULO 6 DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Colecistectomía (COLELAP).
+301018 - MODULO 7 DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Biopsia de hígado, Colecistostomía quirúrgica.
+301019 - MODULO DE CIRUGIA DE BAZO: Esplenectomía segmentaria, Esplenectomía, Sutura esplénica.
+301020 - MODULO DE TUMORES RETROPERITONEALES Y SUPRARRENALES: Adrenalectomía uni o bilateral, Resección de tumores retroperitoneales.
+301021 - MODULO 1 DE CIRUGIA DE COLON, RECTO Y ANO: Protectomía total con reconstrucción y pouch ileal.
+301022 - MODULO 2 DE CIRUGIA DE COLON, RECTO Y ANO: Resección anterior de recto, sigmoideoproctectomía con reconstrucción, Coloplastia y anastomosis, Sigmoideoproctectomía, Proctocolectomía total sin reconstrucción, Colectomía total sin recto con reconstrucción, Operaciones para el megacolon sigmoideorrectal.
+301023 - MODULO 3 DE CIRUGIA DE COLON, RECTO Y ANO: Colectomía total sin recto sin reconstrucción, Hemicolectomía derecha o Izquierda, Operaciones para el tratamiento de las fístulas colorectales, Excéresis de tumor presacro, Tratamiento del prolapso de recto, Reconstrucción de cirugía de Hartman, Reconstrucción del piso pelviano con colgajos musculares, Operación de Hartman, Protectomía parcial por vía posterior.
+301024 - MODULO 4 DE CIRUGIA DE COLON, RECTO Y ANO: Cierre de colostomía con o sin enterectomia, Tratamiento quirúrgico de la patología ano rectal compleja, Tratamiento quirúrgico del prolapso de recto por vía anal, Perineorrafia anterior o posterior, Apendicectomía.
+301025 - MODULO 5 DE CIRUGIA DE COLON, RECTO Y ANO: Colorrafia, sigmoideorrafia, proctorrafia, Devolvulación colónica y colopexia, Miomectomia rectoanal, Operación de Lynn, Biopsia de pared rectal en megacolon, Hemorroidectomia, fistulectomia perianal, Laparotomía o laparoscopía en blanco.
+301026 - MODULO 6 DE CIRUGIA DE COLON, RECTO Y ANO: Extracción de cuerpo extraño en ano y/o recto, Escisión de condilomas perianales y/o anales, Escisión de lesiones perianales, Biopsia de ano, Drenaje de abscesos perianales, Trombectomía.
+301027 - MODULO 1 DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Linfadenectomía cervical ganglionar funcional unilateral, Linfadenectomía cervical selectiva supraomohioideo, carotídeo o posterolateral.
+301028 - MODULO 2 DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Escisión de conductos linfáticos, Linfangiomas, Higromas, Escisión de quiste sacrococcigeo.
+301029 - MODULO 3 DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Escisión radical de angioma cavernoso, Escisión de lipoma gigante, Sutura de herida de músculo, tejido celular subcutáneo y piel, Biopsia de ganglio centinela.
+301030 - MODULO 4 DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Resección de ganglio linfático de cualquier localización, Biopsia de ganglio linfático, Punción de ganglio linfático, Escisión local de lesión de piel o glándula.
+301031 - MODULO 1 DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Eventroplastía diafragmática, Hernioplastía diafragmática.
+301032 - MODULO 2 DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Hernioplastía inguinal y/o crural bilateral, Hernioplastía recidivada inguinal y/o crural, Eventroplastía o cierre de pared abdominal por evisceración, Drenaje de absceso intraabdominal, Drenaje percutáneo de colección o absceso abdominal o retroperitoneal.
+301033 - MODULO 3 DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Hernioplastía inguinal o crural unilateral, Hernioplastía recidivada epigástrica, recidivada umbilical, recidivada obturatriz o recidivada de spiegel, Colocación de catéter para diálisis peritoneal.
+301034 - MODULO 4 DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Hernioplastía epigástrica, obturatriz, umbilical o de Spiegel, Abdomen abierto y contenido como único procedimiento.
+301035 - MODULO 5 DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Peritoneocentesis para evacuación de ascitis.
+300501 - MODULO 1 DE CIRUGIA EN DIENTES, ENCIAS, MAXILAR: Mandibulectomía segmentaria, Resección parcial de maxilar superior, Maxilectomía superior, Resección total de paladar óseo, Resección parcial de paladar duro.
+300502 - MODULO 2 DE CIRUGIA EN DIENTES, ENCIAS, MAXILAR: Mandibulectomía marginal.
+300503 - MODULO 3 DE CIRUGIA EN DIENTES, ENCIAS, MAXILAR: Gingivectomía parcial para tumores benignos.
+300504 - MODULO 4 DE CIRUGIA EN DIENTES, ENCIAS, MAXILAR: Incisión y drenaje de lesión de origen dentario, Biopsia de maxilar, Biopsia de encía.
+300505 - MODULO 1 DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Parotidectomía total sin vaciamiento para tumores benignos del lóbulo profundo de la parótida.
+300506 - MODULO 2 DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Parotidectomía de lóbulo superficial para tratamiento de tumores benignos.
+300507 - MODULO 3 DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Escisión de glándula submaxilar para tratamiento de patología benigna, procesos inflamatorios o tumores benignos de la glándula submaxilar.
+300508 - MODULO 4 DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Biopsia de glándula salival, Extracción incisional de cálculos salivales, Extirpación de ránula, Incisión y drenaje de glándula parótida, submaxilar o sus conductos.
+300509 - MODULO 1 DE CIRUGIA DE BOCA Y PALADAR BLANDO: Plástica de fístula externa mayor de cavidad oral u orofaríngeas con colgajos miocutáneos.
+300510 - MODULO 2 DE CIRUGIA DE BOCA Y PALADAR BLANDO: Resección parcial de paladar y reconstrucción inmediata con injerto de piel o colgajo lingual, Resección total de paladar blando.
+300511 - MODULO 3 DE CIRUGIA DE BOCA Y PALADAR BLANDO: Resección ampliada de mucosa yugal y reconstrucción con injerto.
+300512 - MODULO 4 DE CIRUGIA DE BOCA Y PALADAR BLANDO: Exéresis de tumor benigno de piso de boca por vía endooral, Estomatoplastía con toma de injerto, Plástica de fistula pequeña de cavidad oral u oro faríngeas con tejidos vecinos.
+300513 - MODULO 5 DE CIRUGIA DE BOCA Y PALADAR BLANDO: Sutura de boca para tratamiento de heridas cortantes, Biopsia de mucosa yugal, Drenaje de piso de boca, Incisión y drenaje de paladar, Sutura de paladar, Biopsia de paladar.
+300514 - MODULO 1 DE CIRUGIA DE LABIOS Y LENGUA: Queiloplastia de Bernard Burow, Abbe, Karapandzic para tratamiento de tumores benignos de labio.
+300515 - MODULO 2 DE CIRUGIA DE LABIOS Y LENGUA: Resección amplia cuneiforme de labio, Resección de angioma intramuscular, Tratamiento de angioma intramuscular de lengua y labio y otros tumores benignos.
+300516 - MODULO 3 DE CIRUGIA DE LABIOS Y LENGUA: Escisión local de lesión de labio para tratamiento de tumores de labio, Resección de bermellón, Escisión local de lesión de lengua, Glosoplastía, Tratamiento de heridas cortantes graves de lengua.
+300517 - MODULO 4 DE CIRUGIA DE LABIOS Y LENGUA: Biopsia de labio, Sutura de labio, Incisión y drenaje de labio, Biopsia de lengua, Sutura de lengua, Sección de frenillo lingual.
+300518 - MODULO 1 DE CIRUGIA DE FARINGE Y NASOFARINGE: Resección de tumores parafaríngeos por vía combinada para tratamiento de tumores parafaríngeos de gran tamaño.
+300519 - MODULO 2 DE CIRUGIA DE FARINGE Y NASOFARINGE: Resección de tumores benignos parafaríngeos por vía cervical, Cierre de faringostoma con o sin colgajo, Resección radical de lesión de nasofaringe, Diverticulectomía y miotomía de esfínter esofágico superior, Exéresis endooral de lesión de faringe, Faringectomía parcial, Faringoplastia.
+300520 - MODULO 3 DE CIRUGIA DE FARINGE Y NASOFARINGE: Resección de fístula o quiste branquial, Drenaje de absceso parafaríngeo, Sutura de faringe de heridas penetrantes de faringe.
+300521 - MODULO 4 DE CIRUGIA DE FARINGE Y NASOFARINGE: Biopsia de faringe a cielo abierto, Biopsia de lesión de nasofaringe.
+300522 - MODULO 1 DE CIRUGIA DE LARINGE: Microcirugía de laringe para el diagnóstico y tratamiento de tumor de laringe o pólipos.
+300523 - MODULO 2 DE CIRUGIA DE LARINGE: Laringotomía mediana e inferior, Laringofisura, Laringorrafia, Biopsia de laringe a cielo abierto, Laringoscopia directa, Laringoplastia, Cordopexia, Aritenoideopexia, Tirotomía, Cricotirotomía.
+300524 - MODULO 3 DE CIRUGIA DE LARINGE: Incisión y drenaje de laringe, Absceso, Pericondritis, Incisión y drenaje de quiste tirogloso infectado.
+300525 - MODULO 1 DE CIRUGIA DE TIROIDES Y PARATIROIDES: Tiroidectomía por bocio endotorácico por esternotomía.
+300526 - MODULO 2 DE CIRUGIA DE TIROIDES Y PARATIROIDES: Tiroidectomía total o subtotal bilateral, Tratamiento del bocio multinodular bilateral, Paratiroidectomía, Exéresis de dos o más glándulas, Exploración de todo el cuello, dosaje de PTH intraoperatoria, Paratiroidectomía subtotal, Reoperaciones por hiperparatiroidismo.
+300527 - MODULO 3 DE CIRUGIA DE TIROIDES Y PARATIROIDES: Lobectomía tiroidea, Hemitiroidectomía para el tratamiento de nódulos benignos, Extirpación de quiste tirogloso.
+302001 - MODULO 1 DE CIRUGIA MAXILOFACIAL (4 ITEMS): Módulo de partes blandas, Avulsión de cara, Desgarro de válvula vestibulonasal, Desgarro de confluente cutáneo mucoso nasolabial, Avulsión y exposición de un maxilar, Avulsión grave de párpados, Avulsión grave de cuero cabelludo, Avulsión grave de pabellón auricular, Desgarro de mejilla con o sin compromiso de parótida.
+302002 - MODULO 2 DE CIRUGIA MAXILOFACIAL (3 ITEMS): Módulo de partes blandas, Avulsión de cara, Desgarro de válvula vestibulonasal, Desgarro de confluente cutáneo mucoso nasolabial, Avulsión y exposición de un maxilar, Avulsión grave de párpados, Avulsión grave de cuero cabelludo, Avulsión grave de pabellón auricular, Desgarro de mejilla con o sin compromiso de parótida.
+302003 - MODULO 3 DE CIRUGIA MAXILOFACIAL (4 O MAS ITEMS): Módulo de partes blandas, Avulsión de cara, Desgarro de válvula vestibulonasal, Desgarro de confluente cutáneo mucoso nasolabial, Avulsión y exposición de un maxilar, Avulsión grave de párpados, Avulsión grave de cuero cabelludo, Avulsión grave de pabellón auricular, Desgarro de mejilla con o sin compromiso de parótida.
+302004 - MODULO 4 DE CIRUGIA MAXILOFACIAL (FRACTURA DISYUNCION FACIAL): Fractura disyunción facial (fractura de Le Fort).
+302005 - MODULO 5 DE CIRUGIA MAXILOFACIAL (FRACTURA SIMPLE UNILATERAL): Fractura simple de maxilar superior o inferior.
+302006 - MODULO 6 DE CIRUGIA MAXILOFACIAL (FRACTURA GRAVE UNILATERAL): Fractura grave de maxilar superior o inferior, unilateral.
+302007 - MODULO 7 DE CIRUGIA MAXILOFACIAL (FRACTURA GRAVE BILATERAL): Fractura grave de maxilar superior o inferior, bilateral.
+302008 - MODULO 8 DE CIRUGIA MAXILOFACIAL: Fractura de ambas ramas ascendentes de maxilar superior con desviación del eje central de la cara, con desviación septal, Fractura de la pared externa nasal con corrimiento del cornete inferior.
+302009 - MODULO 9 DE CIRUGIA MAXILOFACIAL: Fractura de marco orbital con hundimiento de mejilla.
+302010 - MODULO 10 DE CIRUGIA MAXILOFACIAL: Fractura de piso de órbita, Reparación con autoinjerto óseo, cartilaginoso o material alopástico.
+302011 - MODULO 11 DE CIRUGIA MAXILOFACIAL: Fractura conminuta del maxilar superior con desprendimiento del ángulo interno del ojo con rinotomía.
+302012 - MODULO 12 DE CIRUGIA MAXILOFACIAL: Combinatoria de módulos en un solo tiempo.
+305001 - MÓDULO DE COLANGIOGRAFÍA ENDOSCÓPICA DIAGNÓSTICA
+305002 - MÓDULO DE COLANGIOGRAFÍA ENDOSCÓPICA TERAPÉUTICA, INCLUYE PAPILATOMÍA, EXTRACCIÓN DE CÁLCULOS, DILATACIÓN, COLOCACIÓN DE STENTS, COLOCACIÓN DE DRENAJES, O CUALQUIER OTRA INTERVENCIÓN TERAPÉUTICA REALIZADA POR ESTE MÉTODO (CPRE)
+305003 - MÓDULO DE RESECCIÓN ENDOSCÓPICA DE TUMORES DIGESTIVOS BENIGNOS Mucosectomía, enucleaciones. Para tratamiento de displasias y tumores estromales benignos del tubo digestivo.
+305004 - MÓDULO DE COLOCACIÓN ENDOSCÓPICA DE STENT EN EL TUBO DIGESTIVO Colocación de stents esofágicos. Colocación de stents colónicos. Dilatación con balón de estenosis del tubo digestivo no biliar.
+305005 - MÓDULO DE ENDOSCOPIA TERAPÉUTICA PARA EL TRATAMIENTO DE ANGIODISPLASIAS Y LESIONES SANGRANTES DEL TUBO DIGESTIVO SIN ARGON PLASMA (INCLUYE ENDOSCOPIA Y SONDA)
+306001 - MÓDULO 1 DE CIRUGÍA DE MAMA Mastoplastía bilateral reductora.
+306002 - MÓDULO 2 DE CIRUGÍA DE MAMA Mastectomía subcutánea (adenomastectomía). Mastectomía simple unilateral. Tumorectomía benigna bilateral. Colocación de expansor o prótesis mamaria como segundo tiempo quirúrgico.
+306003 - MÓDULO 3 DE CIRUGÍA DE MAMA Biopsia radioquirúrgica de mama. Tumorectomía benigna unilateral. Cirugía de Urban.
+306004 - MÓDULO 4 DE CIRUGÍA DE MAMA Drenaje de absceso mamario.
+306005 - MÓDULO 5 DE CIRUGÍA DE MAMA Biopsia quirúrgica de lesión de mama con anestesia local, sin Internación o con internación ambulatoria.
+306006 - MÓDULO 1 DE CIRUGÍA GINECOLÓGICA Perineoplastía, episioperineoplastía. Vulvectomía simple. Histerectomía vaginal. Colpopexia por vía abdominal. Colpopexia combinada (por vía abdominal y vaginal). Colpoclisis completa o parcial. Colporrafía anterior y/o posterior, con o sin amputación de cuello, con o sin corrección de retroversión uterina, con o sin perineorrafía. Incluye tratamiento del rectocele / cistocele la incontinencia de orina. Miomectomía vaginal. Miomectomía uterina por vía laparotómica o laparoscópica. Histerorrafía (fuera de parto). Operación correctora de los vicios de conformación del útero. Histerectomía total con o sin anexectomía uni o bilateral, por vía abdominal o vaginal o laparoscópica, con o sin colpoperineorrafía. Ooforectomía uni o bilateral, por vía laparotómica o laparoscópica. Salpingectomia uni o bilaterales, por vía laparotómica o laparoscópica. Corrección quirúrgica de inversión uterina por vía abdominal, histeropexia con o sin resección ganglio presacro por vía abdominal. Sacropromonto fijación.
+306007 - MÓDULO 2 DE CIRUGÍA GINECOLÓGICA Amputación de cuello (traquelectomía, traqueloplastía) (fuera de parto). Conizació n cervical a bisturí frío. Cono LEEP. Escisión cervical tipo 1, 2 o 3. Miomectomía vaginal (mioma – nacens). Toma de biopsia, resección y fulguración de focos endometrósicos, extracción de líquido y lavado peritoneal. Quistectomía de ovario uni o bilateral. Ligadura de trompas. Salpingostomia.
+306008 - MÓDULO 3 DE CIRUGÍA GINECOLÓGICA Vaginismo (operación de Pozzi). Resección de tabique vaginal. Punción de fondo de saco de Douglas. Colpotomía: vaginotomía de drenaje (absceso pelviano). Escisión local de lesión de vagina. Traquelorrafia (fuera del parto), cerclaje de cuello uterino. Raspado uterino diagnóstico o terapéutico (Legrado). Raspado uterino total y fraccionado. Escisión de labios mayores, labios menores, de glándulas de Bartholino, de glándulas de Skene, clitoridectomía. Escisión de lesiones vulvares no oncológicas (condilomas, pólipos fibroepiteliales). Himenotomía. Incisión y drenaje de vulva, glándula de Bartholino, glándulas de Skene (absceso). Episiorrafía, perineorrafía o episisoperineorrafía (fuera de parto). Colporrafía por herida, desgarro, etc. (fuera del parto).
+306009 - MÓDULO DE HISTEROSCOPIA DIAGNÓSTICA Eventual extracción de DIU. Biopsia.
+306010 - MÓDULO DE HISTEROSCOPIA TERAPÉUTICA Eventual extracción de DIU. Resección de pólipos y/o miomas. Ablación endometrial. Resección de tabiques uterinos.
+303001 - MÓDULO 1 CIRUGÍA PERCUTÁNEA Drenaje percutáneo de vía biliar transparieto-hepático. Drenaje biliar percutáneo transparieto-hepático con implante de endoprótesis biliar. Colocación de stent biliar por vía percutánea transfistular. Drenaje biliar percutáneo transparieto-hepático con extracción de cálculos biliares. Procedimientos biliares percutáneos transyugulares. Dilatación percutánea de estenosis de la vía biliar y/o anastomosis biliares o biliodigestivas. Colocación de stents duodenales o colónicos.
+303002 - MÓDULO 2 CIRUGÍA PERCUTÁNEA Infiltración percutánea del plexo solar. Drenaje percutáneo de colección intraabdominal, hematoma o absceso. Drenaje percutáneo de colección, absceso o hematoma hepático. Colecistostomía percutánea. Drenaje de absceso de psoas.
+303003 - MÓDULO 3 CIRUGÍA PERCUTÁNEA Colangiografía transparietohepática. Recambio de drenaje percutáneo. Recambio de set de gastrostomía. Fistulografía de cualquier ubicación. Toracocentesis y/o paracentesis. Nefrostomías percutáneas.
+303004 - MÓDULO DE PUNCIÓN BIOPSIA Punciones transvaginales y transrectales. Biopsia de tumores hepáticos, renales y abdominales no especificados por punción, bajo control ecográfico.
+303005 - MÓDULO DE PUNCIÓN BIOPSIA Biopsia hepática, pancreática, renal o de tumores abdominales no especificados bajo control tomográfico.
+303006 - MÓDULO DE BIOPSIA HEPÁTICA POR VÍA TRANSYUGULAR
+303007 - MÓDULO DE PUNCIÓN BIOPSIA DE TIROIDES, GLÁNDULAS SALIVALES Y OTROS TUMORES DE CABEZA Y CUELLO
+303008 - MÓDULO DE PUNCIÓN BIOPSIA DE GANGLIOS LINFÁTICOS Y TUMORES DE PARTES BLANDAS Incluye la realización de biopsia de ganglios linfáticos y tumores de partes blandas por
+punción, bajo control ecográfico, PAAF.
+303009 - MÓDULO DE PUNCIÓN BIOPSIA DE PULMÓN, TUMORES TORÁCICOS O MEDIASTINALES GUIADA POR TOMOGRAFÍA Realización de biopsia de tumores de pulmón o de otros tumores torácicos o mediastinales no especificados por punción, bajo control topográfico.
+303010 - MÓDULO DE PUNCIÓN BIOPSIA ÓSEA BAJO CONTROL TOMOGRÁFICO
+308001 - MÓDULO 1 DE CIRUGÍAS OTORRINOLARINGOLÓGICAS Rinoplastia con injerto cutáneo pediculado, con o sin injerto óseo cartilaginoso o implantes, reconstrucción del pabellón auricular con injerto de cartílago y piel, cirugía rinosinusal video/endoscópica, sinusotomía combinada frontal, etmoidal y esfenoidal por vía externa o transmaxilar, sinusotomía radical frontal por vía externa, sinusotomía frontal externa simple, sinusotomía esfenoidal, etmoidectomía interna, antrotomía maxilar radical unilateral o bilateral, sinusotomía maxilar simple unilateral o bilateral, estapedectomía, mastoidectomía simple o radical, antrotomía mastoidea, cierre de fístula mastoidea.
+308002 - MÓDULO 2 DE CIRUGÍAS OTORRINOLARINGOLÓGICAS Otoplastía o reconstrucción del pabellón auricular, otoplastía de lóbulo hendido, miringoplastía, timpanoplastía, septumplastía por implantación de cartílago autógeno, septumplastía por perforación o implantación de acrílico en fosas nasales, turbinectomía parcial o completa simple.
+308003 - MÓDULO 3 DE CIRUGÍAS OTORRINOLARINGOLÓGICAS Resección de osteoma, amigdalectomía, adenoidectomía o amigdalo-adenoidectomía, resección de lesión local endonasal, cierre de fístula oral de seno maxilar, septumplastía, operación de Killian, escisión de pólipo retro-coanal, escisión o electrocoagulación de amígdala lingual, resto amigdalino o tejido linfoideo-faríngeo.
+308004 - MÓDULO DE CIERRE DE FÍSTULA MENÍNGEA (CRANEORRINO) POR VÍA TRANSINUSAL
+308005 - MÓDULO DE CIRUGÍA DE LA FOSA PTERIGOMAXILAR
+308006 - MÓDULO DE CIRUGÍA DE TUMORES ETMOIDALES
+308007 - MÓDULO DE CIRUGÍA DEL CONDUCTO AUDITIVO INTERNO Y SU CONTENIDO
+308008 - MÓDULO DE ESCISIÓN COMPLETA O AMPUTACIÓN DE PABELLÓN
+308009 - MÓDULO DE RECONSTRUCCIÓN DIFERIDA DE PIRÁMIDE NASAL CON COLGAJO
+308010 - MÓDULO DE RESECCIÓN TOTAL DE NARIZ
+308011 - MÓDULO DE TRATAMIENTO QUIRÚRGICO DEL RINOFIMA
+308012 - MÓDULO DE UVULOPALATOPLASTIA VIDEOENDOSCÓPICA
+307001 - MÓDULO DE PARTO
+307002 - MÓDULO CESÁREA
+304001 - MÓDULO 1 DE CIRUGÍA TORÁCICA Plástica quirúrgica del Pectum Excavatum, procedimientos traqueobroncoplásticos.
+304002 - MÓDULO 2 DE CIRUGÍA TORÁCICA Resección traqueal con anastomosis sin prótesis, traqueoplastia para el tratamiento de la traqueomalacia o la estenosis traqueal, tratamiento para la fístula del muñón bronquial por vía convencional o por video toracoscopía.
+304003 - MÓDULO 3 DE CIRUGÍA TORÁCICA Plástica quirúrgica para el tratamiento del pectum carinatum, resección quirúrgica de tumor de pared de tórax con reconstrucción con malla, sutura traqueal, tratamiento del traumatismo traqueal y de heridas cortantes de la tráquea, sutura bronquial, tratamiento del traumatismo bronquial y de heridas penetrantes de bronquio, resección pulmonar segmentaria por toracotomía o por videotoracoscopía, toracoplastias, resección de lesiones de mediastino, reducción volumétrica pulmonar, bullectomia, toilette pleural, simpaticectomía por video toracoscopía.
+304004 - MÓDULO 4 DE CIRUGÍA TORÁCICA Pleurectomía parcial por toracotomía o por video toracoscopía, mediastinotomía, ventana pericárdica por cualquier vía, biopsia de pleura por videotoracoscopía.
+304005 - MÓDULO 5 DE CIRUGÍA TORÁCICA Drenaje pleural por toracotomía mínima, videotoracoscopía diagnóstica.
+304006 - MÓDULO 6 DE CIRUGÍA TORÁCICA Mediastinoscopía, biopsia pleural.
+309001 - MÓDULO DÍA DE TRATAMIENTO DEL QUEMADO – LEVE O MODERADO Atención del paciente con quemaduras tipo A o AB y extensión no mayor de 15% de superficie corporal, sin compromiso de la vía aérea.
+309002 - MÓDULO DÍA DE TRATAMIENTO DEL QUEMADO – GRAVE Atención del paciente con quemaduras tipo A-AB y extensión mayor de 15% y no mayor de 60 % de superficie corporal, SIN compromiso de la vía aérea.
+309003 - MÓDULO DÍA DE TRATAMIENTO DEL QUEMADO – CRÍTICO Atención del paciente con Quemaduras de cualquier tipo y extensión de mayor de 30% de superficie corporal, con compromiso de vía aérea.
+311001 - DÍA DE INTERNACIÓN EXCEDENTE PREVIO A MÓDULO QUIRÚRGICO Corresponde solicitar para pacientes que ingresan en un prestador no asignado para su cápita de internación, en situación de urgencia/emergencia para la realización de una práctica quirúrgica modulada, y deben ser evaluados previamente a la realización de la misma. También corresponde solicitar en caso de pacientes que por un motivo debidamente justificado se encuentran internados en un prestador diferente al asignado para su cápita de internación, para la realización de una práctica quirúrgica modulada y el insumo requerido al Instituto no fue entregado en la fecha acordada con el proveedor.
+311002 - DÍA DE INTERNACIÓN EXCEDENTE POSTERIOR A MÓDULO QUIRÚRGICO Corresponde solicitar para pacientes con alguna situación médica relacionada con la práctica que dio origen al módulo quirúrgico, y que para su tratamiento requieren continuar internados en el mismo prestador, el cual no es su prestador asignado para la cápita de internación.
+
+
+Eres un asistente en el nomenclador de codigo de practicas medicas de la obra social PAMI. Se te preguntara por alguna practica incluida en algun modulo y debes responder con el codigo correspondiente y una explicacion de dicho codigo si la prectica o la palabra usada figura en varios codigos, responde los codigo alternativos y sugiere SIEMPRE una revision en el manual ofical de PAMI
+coloca al final separado por dos renglones "ChatBot creado por Luis Copetti"
+si el mensaje del usuario no es sobre una practica del nomenclador, responde "Soy un asistente de practicas incluidas en el nomenclador de PAMI"

@@ -1,0 +1,171 @@
+657001 – MÓDULO A CIRUGÍA UROLOGICA DE RIÑÓN: Nefroureterectomia con Cistectomía Parcial, Nefrectomía Parcial incluye Quistectomia Renal, Nefrectomía Total o Radical.
+657002 - MÓDULO B CIRUGÍA UROLOGICA DE RIÑÓN: Nefrectomía Total o Radical con Trombo Venoso.
+657003 - MÓDULO CIRUGÍA UROLOGICA DE URETER Y URETRA: Uretroplastia Tratamiento quirúrgico de la estrechez, fistula o traumatismo uretral a cielo abierto, Ureteroscopia diagnóstica, Ureteroscopia con litotricia ureteral neumática o ultrasónica, Ureteroscopia con láser Holmium, Ureteroscopia flexible, Pieloplastia convencional, laparoscópica o percutánea, Plástica del uréter incluye ureterotomia, Ureterectomia segmentaria incluye boari y vejiga psoica, Reimplante ureterovesical ureteroneocistostomia, Ureterolitotomia, Reemplazo del uréter por intestino, Resección percutánea de tumor pielico, Vesiculectomia uni o bilateral.
+657004 - MÓDULO CIRUGÍA UROLOGICA DE VEJIGA: Cistectomía total / radical con derivación ureteral simple o con neovejiga ortotopica o heterotopica, Cistoplastia de ampliación.
+657005 - MÓDULO CIRUGÍA UROLOGICA DE PRÓSTATA: Prostatectomia radical, Adenomectomia de Próstata transvesical o retropúbica.
+657006 - MODULO DE AMPUTACION RADICAL O PARCIAL DE PENE: Amputación radical o parcial de pene.
+657007 - MODULO DE AMPUTACION RADICAL O PARCIAL DEL VACIAMIENTO GANGLIONAR: Amputación radical o parcial de pene con vaciamiento ganglionar.
+657008 - MODULO DE BIOPSIA RENAL PERCUTANEA: Biopsia renal percutánea.
+657009 - MODULO DE CISTECTOMIA PARCIAL: Cistectomia parcial.
+657010 - MODULO DE COLOCACION DE CATETER DOBLE JOTA ENDOSCOPICO: Colocación de catéter Doble J endoscópica incluye cistoscopia.
+657011 - MODULO DE COLOCACION DE ESFINTER URINARIO ARTIFICIAL: Colocación de esfínter urinario artificial.
+657012 - MODULO DE COLOCACION DE SLING SUBURETRAL: Colocación de Sling suburetral.
+657013 - MODULO DE ELECTROCOAGULACION O RESECCION ENDOSCOPICA DE TUMORES URETRALES, VERU MONTANUM O VALVULAS: Resección endoscopica de tumores uretrales.
+657014 - MODULO DE NEFROSTOMIA PERCUTANEA CON O SIN NEFROSCOPIA: Nefrostomia percutanea con o sin nefroscopia.
+657015 - MODULO DE ORQUIECTOMIA UNI O BILATERAL. SIMPLE O RADICAL: Orquiectomía uni o bilateral, simple o radical.
+657016 - MODULO DE RECAMBIO DE NEFROSTOMIA: Recambio de Nefrostomía.
+657017 - MODULO DE RESECCION TRANSURETRAL DE CUELLO VESICAL, TUMORES VESICALES: Resección transuretral de cuello vesical o tumores vesicales.
+657018 - MODULO DE RESECCION TRANSURETRAL DE FIBROSIS Y CICATRICES POST ADENOMECTOMIA: Resección transuretral de fibrosis y cicatrices post adenomectomía.
+657019 - MODULO DE RESECCION TRANSURETRAL DE PROSTATA: Resección transuretral (RTU) de próstata.
+657020 - MODULO DE RETIRO DE SLING SUBURETRAL: Retiro de sling suburetral.
+657021 - MODULO DE TRATAMIENTO QUIRURGICO DE LA FISTULA VESICOCUTANEA: Tratamiento quirúrgico de la fístula vesico-cutánea.
+657022 - MODULO DE TRATAMIENTO QUIRURGICO DE LA FISTULA VESICOINTESTINAL CON O SIN RESECCION INTESTINAL, VESICOVAGINAL/VESICOUTERINA: Tratamiento quirúrgico de la fístula vesicointestinal con o sin resección intestinal/vesicovaginal/vesicouterina.
+657024 - MODULO DE TRATAMIENTO QUIRURGICO DE LA FISTULA URETEROINTESTINAL, URETEROVAGINAL Y/O URETEROCUTANEA: Tratamiento quirúrgico de la fístula ureterointestinal, ureterovaginal y/o ureterocutánea.
+657023 - MODULO DE URETROTOMIA INTERNA: Uretrotomía interna.
+658001 - MODULO A DE CIRUGIA ESOFAGICA: Reconstrucción del tránsito esofágico (plástica microquirúrgica con intestino delgado) para reconstrucción del tránsito en un segundo tiempo operatorio posterior a esofaguectomía total.
+658002 – MODULO B DE CIRUGIA ESOFAGICA: Esofagectomía total + reconstrucción en un tiempo con o sin toracotomía, abordaje cervico-abdominal para el tratamiento del cáncer de esófago; Esofaguectomía total con toracotomía videoasistida + reconstrucción en un tiempo, abordaje cervico toraco abdominal para el tratamiento del cáncer de esófago.
+658003 – MODULO C DE CIRUGIA ESOFAGICA: Esofaguectomía subtotal + reconstrucción en un tiempo, incluye abordaje torácico y abdominal. Operación de Lewis para el tratamiento del cáncer de esófago de tercio inferior; Esofagogastrectomía polar superior con abordaje abdomino torácico. Operación de Biondi. Para el tratamiento del Cáncer de tercio inferior de esófago y cardias; Reconstrucción del tránsito esofágico (Esofagocoloplastía, gastroplastía) para reconstrucción del tránsito en un segundo tiempo operatorio posterior a esofaguectomía total.
+658004 - MODULO D DE CIRUGIA ESOFAGICA: Esofagostomía temporaria o definitiva para el tratamiento de fistulas o perforaciones esofágicas; Cierre de esofagostoma.
+658005 - MODULO A DE CIRUGIA GASTRICA Y DUODENAL: Gastrectomía total ampliada con resección de otros órganos, para tratamiento del cáncer gástrico con invasión a órganos vecinos. Incluye reconstrucción del tránsito en un tiempo.
+658006 - MODULO B DE CIRUGIA GASTRICA Y DUODENAL: Gastrectomía total para el tratamiento del cáncer gástrico. Incluye reconstrucción del tránsito en un tiempo.
+658007 - MODULO C DE CIRUGIA GASTRICA Y DUODENAL: Gastrectomía subtotal o re gastrectomía para el tratamiento del cáncer gástrico, tratamiento de la úlcera gástrica y/o duodenal, incluye reconstrucción; Resección segmentaria de duodeno para el tratamiento de tumores de duodeno, incluye reconstrucción; Cierre de fistulas duodenales.
+658008 - MODULO D DE CIRUGIA GASTRICA Y DUODENAL: Derivaciones gastrointestinales. Para el tratamiento de tumores gastrointestinales irresecables.
+658009 - MODULO E DE CIRUGIA GASTRICA Y DUODENAL: Gastrotomía para alimentación por todas las técnicas (incluye colocación de botón).
+658010 - MODULO A DE CIRUGIA DE INTESTINO DELGADO: Cierre y reparación de fístulas enterocutáneas simples y complejas, Enterectomía total.
+658011 - MODULO B DE CIRUGIA DE INTESTINO DELGADO: Enterectomia de yeyuno o íleon, incluye reconstrucción para el tratamiento de perforaciones, estenosis, necrosis, procesos inflamatorios o tumores, Derivaciones intestinales como única operación para la restitución del tránsito intestinal en oclusiones por patología tumoral o inflamatoria irresecable.
+658012 - MODULO C DE CIRUGIA DE INTESTINO DELGADO: Laparotomía exploradora y enterolisis, con o sin toma de biopsia, como único procedimiento, Drenaje de absceso interasas, como único procedimiento.
+658013 - MODULO D DE CIRUGIA DE INTESTINO DELGADO: Ileostomía de alimentación por todas las técnicas como única operación, Realización de ostomía de derivación en el intestino delgado como única operación, Cierre o plástica de ileostomía.
+658014 - MODULO A DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Lobectomía hepática para tratamiento de tumores hepáticos, metástasis, quistes gigantes, traumatismos, Resección de la vía biliar con anastomosis bilio digestivas y vaciamiento ganglionar para tratamiento de tumores de la vía biliar y quistes de colédoco, Duodenopancreatectomía total para el tratamiento de tumores pancreáticos, Duodenopancreatectomía cefálica para el tratamiento de tumores periampulares y traumatismos duodeno pancreáticos, Anastomosis biliodigestivas complejas y reparaciones de la vía biliar para el tratamiento de las lesiones quirúrgicas de vía biliar.
+658015 - MODULO B DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Segmentectomía hepática para tratamiento de tumores hepáticos, metástasis hepáticas, quistes, traumatismos y abscesos, Ampulectomía con reimplantación del conducto biliar y pancreático para el tratamiento de tumores de la ampolla de váter.
+658016 - MODULO C DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Hepatectomía parcial y/o Metastesectomía para el tratamiento de quistes hepáticos, tumores y metástasis hepáticas, Pancreatectomía corporocaudal con o sin conservación de Bazo para el tratamiento de tumores de cuerpo y cola de páncreas, Anastomosis pancreática digestiva, Doble derivación biliodigestiva para los tumores biliodigestivos irresecables.
+658017 - MODULO D DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Anastomosis biliodigestivas simple como único procedimiento, Derivaciones biliodigestivas para el tratamiento de la litiasis coledociana múltiple y tratamiento de tumores biliodigestivos irresecables.
+658018 - MODULO E DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Hepatostomía como único procedimiento para marsupialización de quistes y/o abscesos hepáticos, Biopsia de páncreas.
+658019 - MODULO F DE CIRUGIA DE PANCREAS, HIGADO Y VIAS BILIARES: Biopsia de hígado, Colecistostomía quirúrgica.
+658020 - MODULO DE CIRUGIA DE BAZO: Esplenectomía como única intervención para el tratamiento de enfermedades hematológicas, traumatismos, quistes y abscesos.
+658021 - MODULO DE TUMORES RETROPERITONEALES Y SUPRARRENALES: Adrenalectomía uni o bilateral, Resección de tumores retroperitoneales.
+658022 - MODULO A DE CIRUGIA DE COLON, RECTO Y ANO: Exenteración pelviana para el tratamiento del tumor de recto avanzado, tumores ginecológicos, tumores urológicos y tumores pelvianos de otro tipo avanzados con infiltración de múltiples órganos.
+658023 - MODULO B DE CIRUGIA DE COLON, RECTO Y ANO: Protectomía total con reconstrucción y pouch ileal, Amputación abdominoperineal ampliada para el tratamiento del cáncer de recto bajo avanzado extendido a otros órganos de la pelvis que no requiere exenteración pelviana.
+658024 - MODULO C DE CIRUGIA DE COLON, RECTO Y ANO: Resección anterior de recto, sigmoideoproctectomía con reconstrucción en un tiempo, incluye realización de Pouch colónico y ostomías de protección.
+658025 - MODULO D DE CIRUGIA DE COLON, RECTO Y ANO: Colectomía total sin recto, sin reconstrucción en un tiempo, Hemicolectomía derecha o Izquierda, colectomía segmentaria incluye ostomías, Operaciones para el tratamiento de las fistulas colorectales, colovaginales, colovesicales u otras por vía abdominal incluye resección y reconstrucciones en un tiempo incluye ostomías, Excéresis de tumor presacro por vía abdominal, Reconstrucción de cirugía de Hartman incluye enterolisis, reconstrucción de pared abdominal, Reconstrucción del piso pelviano con colgajos musculares, Operación de Hartman, Protectomía parcial por vía posterior incluye ostomías.
+658026 - MODULO E DE CIRUGIA DE COLON, RECTO Y ANO: Cierre de colostomía con o sin enterectomia, Tratamiento quirúrgico de la patología ano rectal compleja incluye cirugías para la incontinencia fecal, estenosis anal, fístulas complejas, reconstrucción del piso pelviano incluye la realización de anoplastías, colgajos cutáneos, colgajos mucosos, colgajos musculares simples, ligadura interesfinteriana.
+658027 - MODULO F DE CIRUGIA DE COLON, RECTO Y ANO: Resección transanal de tumor de recto, Fistulectomia perianal, fistulotomia perianal, drenaje de abscesos perirectales, cerclaje de ano.
+658028 - MODULO G DE CIRUGIA DE COLON, RECTO Y ANO: Escisión de lesiones perianales, Biopsia de ano, Drenaje de abscesos perianales.
+658029 - MODULO A DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Linfadenectomía cervical bilateral, Linfadenectomía lumboaórtica, Linfadenectomía cervical ganglionar funcional unilateral con conservación de esternocleidomastoideo y/o vena yugular, Linfadenectomía cervical selectiva supraomohioideo, carotideo o posterolateral.
+658030 - MODULO B DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Linfadenectomía cervical unilateral, Linfadenectomía Inguinal bilateral.
+658031 - MODULO C DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Linfadenectomía axilar, Linfadenectomía inguinal unilateral, Escisión de lesión maligna de piel con técnica de Mohs y reconstrucción.
+658032 - MODULO D DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Escisión amplia de lesión o tumor maligno de piel incluye reparación plástica, Biopsia de ganglio centinela.
+658033 - MODULO E DE CIRUGIA DE PIEL, GANGLIOS LINFATICOS Y PARTES BLANDAS: Resección de ganglio linfático de cualquier localización, Biopsia de ganglio linfático, Punción de ganglio linfático de cualquier localización, Biopsia de piel y/o tejido celular subcutáneo, y/o muscular y/o nervio sural.
+658034 - MODULO A DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Eventroplastía diafragmática, Hernioplastía diafragmática incluye colocación de malla.
+658035 - MODULO B DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Eventroplastía o cierre de pared abdominal por evisceración incluye colocación de malla, Drenaje de absceso intraabdominal, Drenaje percutáneo de colección o absceso abdominal o retroperitoneal incluye guía ecográfica o tomográfica.
+658036 - MODULO C DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Colocación de catéter para diálisis peritoneal.
+658037 - MODULO D DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Abdomen abierto y contenido como único procedimiento, lavado y realización.
+658038 - MODULO E DE CIRUGIA DE PARED ABDOMINAL Y RETROPERITONEO: Peritoneocentesis para evacuación de ascitis.
+653001 - MODULO A DE CIRUGIA EN DIENTES, ENCIAS, MAXILAR: Operación comando de encía posterior, Mandibulectomía segmentaria, Gingivectomía con vaciamiento cervical unilateral, Resección parcial de maxilar superior, Maxilectomía superior, Resección total de paladar óseo, Resección parcial de paladar duro.
+653002 - MODULO B DE CIRUGIA EN DIENTES, ENCIAS, MAXILAR: Mandibulectomía marginal, Gingivectomía total.
+653003 - MODULO C DE CIRUGIA EN DIENTES, ENCIAS, MAXILAR: Gingivectomía parcial.
+653004 - MODULO D DE CIRUGIA EN DIENTES, ENCIAS, MAXILAR: Incisión y drenaje de lesión de origen dentario, Biopsia de maxilar, Biopsia de encía.
+653005 - MODULO A DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Parotidectomía total con exéresis del nervio facial y reconstrucción con neurorrafía, Injerto nervio facial.
+653006 - MODULO B DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Parotidectomía total con vaciamiento cervical.
+653007 - MODULO C DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Operación comando de glándula submaxilar.
+653008 - MODULO D DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Parotidectomía de lóbulo superficial, Tumores de Warthim.
+653009 - MODULO E DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Escisión de glándula submaxilar.
+653010 - MODULO F DE CIRUGIA DE GLANDULAS Y CONDUCTOS SALIVALES: Biopsia de glándula salival.
+653011 - MODULO A DE CIRUGIA DE BOCA Y PALADAR BLANDO: Operación comando del piso de boca, Resección con vaciamiento cervical y reconstrucción local con injerto, Operación comando de paladar blando, Plástica de fistula externa mayor de cavidad oral u oro faríngeas con colgajos miocutáneos.
+653012 - MODULO B DE CIRUGIA DE BOCA Y PALADAR BLANDO: Resección parcial de paladar y reconstrucción inmediata con injerto de piel o colgajo lingual.
+653013 - MODULO C DE CIRUGIA DE BOCA Y PALADAR BLANDO: Exéresis endooral de tumor maligno del piso de boca, Exéresis endooral de tumor maligno del piso de boca con mandibulectomía marginal, Resección ampliada de mucosa yugal y reconstrucción con injerto, Resección total de paladar blando.
+653014 - MODULO D DE CIRUGIA DE BOCA Y PALADAR BLANDO: Exéresis de tumor benigno de piso de boca por vía endooral, Plástica de fistula pequeña de cavidad oral u oro faríngeas con tejidos vecinos.
+653015 - MODULO E DE CIRUGIA DE BOCA Y PALADAR BLANDO: Biopsia de mucosa yugal, Drenaje de piso de boca, Incisión y drenaje de paladar, Biopsia de paladar.
+653016 - MODULO A DE CIRUGIA DE LABIOS Y LENGUA: Operación comando de lengua por mandibulotomía + vaciamiento cervical unilateral.
+653017 - MODULO B DE CIRUGIA DE LABIOS Y LENGUA: Glosectomía subtotal endooral + vaciamiento cervical, Queiloplastía con vaciamiento cervical, Resección de tumor + vaciamiento cervical sin colgajo.
+653018 - MODULO C DE CIRUGIA DE LABIOS Y LENGUA: Queiloplastía de Bernard Borow, Abbe, Karapansic, sin vaciamiento cervical, Glosectomía total.
+653019 - MODULO D DE CIRUGIA DE LABIOS Y LENGUA: Resección amplia cuneiforme de labio, sin vaciamiento cervical.
+653020 - MODULO E DE CIRUGIA DE LABIOS Y LENGUA: Escisión local de lesión de labio, Escisión local de lesión de lengua, Glosoplastía.
+653021 - MODULO F DE CIRUGIA DE LABIOS Y LENGUA: Biopsia de labio, Incisión y drenaje de labio, Biopsia de lengua.
+653022 - MODULO A DE CIRUGIA DE FARINGE Y NASOFARINGE: Operación comando de faringe + vaciamiento cervical ganglionar unilateral, Resección de tumores parafaríngeos por vía combinada.
+653023 - MODULO B DE CIRUGIA DE FARINGE Y NASOFARINGE: Resección de tumores parafaríngeos por vía cervical, Cierre de faringostoma con o sin colgajo, Resección radical de lesión de nasofaringe, Excéresis endooral de lesión de faringe, Faringectomia parcial, Faringoplastia.
+653024 - MODULO C DE CIRUGIA DE FARINGE Y NASOFARINGE: Drenaje de absceso parafaríngeo por vía cervical.
+653025 - MODULO D DE CIRUGIA DE FARINGE Y NASOFARINGE: Biopsia de faringe a cielo abierto, Biopsia de lesión de nasofaringe.
+653026 - MODULO A DE CIRUGIA DE LARINGE: Laringofaringectomía con vaciamiento cervical, con reconstrucción con colgajo microquirúrgico yeyuno o radial y miocutáneo pediculado / Faringectomia total.
+653027 - MODULO B DE CIRUGIA DE LARINGE: Laringofaringectomía con vaciamiento cervical, con reconstrucción con colgajo miocutáneo pediculado, Faringectomia parcial o total.
+653028 - MODULO C DE CIRUGIA DE LARINGE: Laringuectomía radical con vaciamiento cervical, Operación comando de laringe.
+653029 - MODULO D DE CIRUGIA DE LARINGE: Laringofaringectomía con vaciamiento cervical, sin reconstrucción, Laringectomia parcial con vaciamiento cervical.
+653030 - MODULO E DE CIRUGIA DE LARINGE: Laringectomia total, Laringectomia parcial sin vaciamiento cervical, Microcirugía de laringe.
+653031 - MODULO F DE CIRUGIA DE LARINGE: Biopsia de laringe a cielo abierto, Laringoscopia directa, Laringoplastia, Cricotirotomia.
+653032 - MODULO G DE CIRUGIA DE LARINGE: Incisión y drenaje de laringe, Absceso, Pericondritis.
+653033 - MODULO A DE CIRUGIA DE TIROIDES Y PARATIROIDES: Tiroidectomía total con vaciamiento ganglionar modificado bilateral.
+653034 - MODULO B DE CIRUGIA DE TIROIDES Y PARATIROIDES: Tiroidectomía total o subtotal bilateral, Paratiroidectomía, Excéresis de dos o más glándulas hasta tres y media, Exploración de todo el cuello, dosaje de PTH intraoperatoria, Paratiroidectomía subtotal.
+654001 - MODULO DE COLANGIOGRAFIA ENDOSCOPICA DIAGNOSTICA: Colangiografía endoscópica diagnóstica.
+654002 - MODULO DE COLANGIOGRAFIA ENDOSCOPICA TERAPEUTICA: Colangiografía endoscópica terapéutica, papilotomía, extracción de cálculos, dilatación, colocación de stents o drenajes, intervención terapéutica endoscópica.
+654003 - MODULO DE COLOCACION ENDOSCOPICA DE STENT EN EL TUBO DIGESTIVO: Colocación de stent esofágicos, Colocación de stent colónicos, Dilatación con balón de estenosis del tubo digestivo no biliar.
+655001 - MODULO A DE CIRUGIA DE MAMA: Mastectomía con reconstrucción plástica en un tiempo, colocación de expansor o implante mamario.
+655002 - MODULO B DE CIRUGIA DE MAMA: Mastectomía bilateral simple o con vaciamiento axilar, Cirugías de recidivas.
+655003 - MODULO C DE CIRUGIA DE MAMA: Mastectomía simple unilateral, Tumorectomía bilateral, Tumorectomía + ganglio centinela + vaciamiento axilar, Mastectomía radical modificada, Colocación de expansor o prótesis mamaria como segundo tiempo quirúrgico.
+655004 - MODULO D DE CIRUGIA DE MAMA: Biopsia radioquirúrgica de mama, Tumorectomía, Cirugía de Urban.
+655005 - MODULO E DE CIRUGIA DE MAMA: Drenaje de absceso mamario.
+655006 - MODULO F DE CIRUGIA DE MAMA: Biopsia de lesión de mama con anestesia local, sin Internación o con internación ambulatoria.
+655007 - MODULO A DE CIRUGIA GINECOLOGICA: Vulvectomía radical, Histerectomía radical, Exenteración pelviana, Traquelectomía radical + linfadenectomía abdominal.
+655008 - MODULO B DE CIRUGIA GINECOLOGICA: Perineoplastía, episioperineoplastía, Vulvectomía simple, Histerectomía vaginal, Histerectomía con o sin anexectomía, Ooforectomía uni o bilateral, Salpingectomia uni o bilaterales.
+655009 - MODULO C DE CIRUGIA GINECOLOGICA: Amputación de cuello, Conización cervical a bisturí frío, Cono LEEP, Toma de biopsia, extracción de líquido y lavado peritoneal.
+655010 - MODULO D DE CIRUGIA GINECOLOGICA: Punción de fondo de saco de Douglas, Colpotomía de drenaje, Escisión local de lesión de vagina, Raspado uterino diagnóstico o terapéutico.
+655011 - MODULO DE HISTEROSCOPIA DIAGNOSTICA: Eventual extracción de DIU, Biopsia.
+655012 - MODULO DE HISTEROSCOPIA TERAPEUTICA: Resección de pólipos y/o miomas, Ablación endometrial, Resección de tabiques uterinos.
+662001 - MODULO A CIRUGIA PERCUTANEA: Drenaje percutáneo de vía biliar transparieto-hepático, Drenaje biliar percutáneo con implante de endoprótesis biliar, Procedimientos biliares percutáneos transyugulares, Dilatación percutánea de estenosis de la vía biliar.
+662002 - MODULO B CIRUGIA PERCUTANEA: Alcoholización percutánea de tumores, Drenaje percutáneo de colección intraabdominal, hematoma o absceso, Drenaje percutáneo de colección, absceso o hematoma hepático, Colecistostomía percutánea.
+662003 - MODULO C CIRUGIA PERCUTANEA: Colangiografía transparietohepática, Recambio de drenaje percutáneo, Recambio de set de gastrostomía.
+662004 - MODULO DE PUNCION BIOPSIA HEPATICA, PANCREATICA, RENAL Y TUMORES ABDOMINOPELVIANOS NO ESPECIFICADOS BAJO CONTROL ECOGRAFICO: Punción biopsia hepática, pancreática, renal y tumores abdominopelvianos no especificados bajo control ecográfico.
+662005 - MODULO DE PUNCION BIOPSIA HEPATICA, PANCREATICA, RENAL O DE TUMORES ABDOMINALES NO ESPECIFICADOS BAJO CONTROL TOMOGRAFICO: Punción biopsia hepática, pancreática, renal y tumores abdominopelvianos no especificados bajo control tomográfico.
+662007 - MODULO DE PUNCION BIOPSIA DE TIROIDES, GLANDULAS SALIVALES Y OTROS TUMORES DE CABEZA Y CUELLO NO ESPECIFICADOS BAJO CONTROL ECOGRAFICO: Punción biopsia de tiroides, glándulas salivales y otros tumores de cabeza y cuello no especificados bajo control ecográfico.
+662008 - MODULO DE PUNCION BIOPSIA DE GANGLIOS LINFATICOS Y TUMORES DE PARTES BLANDAS BAJO GUIA ECOGRAFICA: Punción biopsia de ganglios linfáticos y tumores de partes blandas bajo control ecográfico.
+662009 - MODULO DE PUNCION BIOPSIA DE PULMON, TUMORES TORACICOS O MEDIASTINALES GUIADA POR TOMOGRAFIA: Punción y toma de biopsia de tumores de pulmón o de otros tumores torácicos o mediastinales no especificados por punción bajo control tomográfico.
+662010 - MODULO DE PUNCION BIOPSIA OSEA BAJO CONTROL TOMOGRAFICO: Punción Biopsia ósea bajo control tomográfico.
+662006 - MODULO DE BIOPSIA HEPATICA POR VIA TRANSYUGULAR: Punción Biopsia hepática por vía transyugular.
+667001 - MODULO A DE CIRUGIAS OTORRINOLARINGOLOGICAS: Rinoplastia con injerto cutáneo pediculado, Reconstrucción del pabellón auricular con injerto de cartílago y piel, Cirugía rinosinusal video/endoscópica, Sinusotomía combinada, Sinusotomía radical frontal, Sinusotomía frontal externa simple, Sinusotomía esfenoidal, Etmoidectomía interna, Antrotomía maxilar radical, Sinusotomía maxilar simple, Mastoidectomía simple o radical, Antrotomía mastoidea.
+667002 - MODULO B DE CIRUGIAS OTORRINOLARINGOLOGICAS: Resección de osteoma, Resección de lesión local endonasal, Cierre de fistula oral de seno maxilar, Escisión de pólipo retro-coanal.
+667003 - MODULO DE CIERRE DE FISTULA MENINGEA POR VIA TRANSINUSAL: Cierre de fistula meningea por via transinusal.
+667004 - MODULO DE CIRUGIA DE LA FOSA PTERIGOMAXILAR: Cirugía de la fosa pterigomaxilar.
+667005 - MODULO DE CIRUGIA DE TUMORES ETMOIDALES: Cirugía de tumores etmoidales.
+667006 - MODULO DE ESCISION COMPLETA O AMPUTACION DE PABELLON: Escisión completa o amputación de pabellón.
+667007 - MODULO DE RECONSTRUCCION DIFERIDA DE PIRAMIDE NASAL CON COLGAJO: Reconstrucción diferida de pirámide nasal con colgajo.
+667008 - MODULO DE RESECCION TOTAL DE NARIZ: Resección total de nariz.
+667009 - MODULO DE UVULOPALATOPLASTIA VIDEOENDOSCOPICA: Uvulopalatoplastia videoendoscopica.
+663001 - MODULO A DE CIRUGIA TORACICA: Resección quirúrgica de tumor de pared torácica más reconstrucción con metacrilato y colgajo microquirúrgico, Resecciones pulmonares por tumores con extensión al mediastino.
+663002 - MODULO B DE CIRUGIA TORACICA: Resección quirúrgica de tumor de pared torácica más reconstrucción con metacrilato y colgajo pediculado o epiplón, Pleuroneumonectomía más vaciamiento ganglionar.
+663003 - MODULO C DE CIRUGIA TORACICA: Resección traqueal con anastomosis con prótesis, Toracolobectomia más vaciamiento ganglionar, Procedimientos traqueobroncoplásticos, Resección de metástasis pulmonares múltiples bilaterales.
+663004 - MODULO D DE CIRUGIA TORACICA: Resección quirúrgica más reconstrucción con metacrilato de pared torácica, Resección traqueal con anastomosis sin prótesis, Neumonectomía más vaciamiento ganglionar, Lobectomía más vaciamiento ganglionar, Resección de metástasis pulmonares unilaterales, Tratamiento para la fístula del muñón bronquial.
+663005 - MODULO E DE CIRUGIA TORACICA: Resección quirúrgica de tumor de pared de tórax con reconstrucción con malla, Resección pulmonar segmentaria, Resección de lesiones de mediastino, Resección de tumores invasores de mediastino, Toilette pleural.
+663006 - MODULO F DE CIRUGIA TORACICA: Resección quirúrgica de tumor de pared de tórax, Pleurectomía parcial, Toracotomía exploradora, Mediastinotomía, Ventana pericárdica, Biopsia de pleura.
+663007 - MODULO G DE CIRUGIA TORACICA: Drenaje pleural por toracotomía mínima para neumotórax, hemotórax o hemo neumotórax.
+663008 - MODULO H DE CIRUGIA TORACICA: Mediastinoscopía, Biopsia pleural.
+664001 - MODULO DE CIRUGIA DE MIEMBRO SUPERIOR A: Amputación interescapulotorácica, Resección ósea tumoral segmentaria, Neurólisis del plexo braquial, Extirpación de tumor neurogénico del plexo braquial, Tratamiento de tumor óseo maligno con reconstrucción completa.
+664002 - MODULO DE CIRUGIA DE MIEMBRO SUPERIOR B: Tratamiento quirúrgico de síndromes neurovasculares compresivos cervicobraquiales, Reparación de nervio o rama nerviosa con neurotización, Extirpación radical de tumor maligno de partes blandas más plásticas asociadas reconstructivas.
+664003 - MODULO DE CIRUGIA DE MIEMBRO SUPERIOR C: Extirpación de tumor neurogénico benigno de nervio o rama nerviosa, Tratamiento radical de tumor maligno de la sinovial de una articulación.
+664004 - MODULO DE CIRUGIA DE MIEMBRO SUPERIOR D: Tratamiento quirúrgico de la osteomielitis de la escápula, el húmero, el radio, el cúbito o un hueso carpiano.
+664005 - MODULO DE CIRUGIA DE MIEMBRO SUPERIOR E: Extirpación de tumor óseo benigno sin reconstrucción, Extirpación de lesión tumoral o seudotumoral benigna que engloba o infiltra estructuras profundas vecinas.
+664006 - MODULO DE CIRUGIA DE MIEMBRO SUPERIOR F: Tratamiento quirúrgico de artritis u osteoartritis séptica de una articulación, Tumores de partes blandas subaponeuróticos de menos de 5 cm, Tratamiento quirúrgico de osteomielitis de un metacarpiano o una falange, Tallado y aplicación de colgajo rotatorio de vecindad.
+664007 - MODULO DE CIRUGIA DE RODILLA A: Resección ósea tumoral segmentaria, Prótesis de resección tumoral en rodilla por revisión o fractura compleja.
+664008 - MODULO DE CIRUGIA DE RODILLA B: Prótesis de resección tumoral en rodilla por revisión o fractura compleja.
+664009 - MODULO DE CIRUGIA DE RODILLA C: Resección o curetaje de lesión tumoral cavitaria con relleno óseo, Amputación infrarrotuliana o suprarrotuliana.
+807016 - MODULO DE CIRUGIA DE RODILLA F: Resección de un tumor óseo benigno sin reconstrucción.
+664010 - MODULO DE CIRUGIA DE RODILLA D: Biopsia a cielo abierto, Tumores de partes blandas subaponeuróticos de menos de 5 cm.
+664011 - MODULO DE CIRUGIA DE RODILLA E: Tratamiento de la artritis séptica, Artrotomía, Curetaje en la osteomielitis.
+664012 - MODULO A DE CIRUGIA DE PIERNA Y PIE: Resección ósea tumoral segmentaria.
+664013 - MODULO B DE CIRUGIA DE PIERNA Y PIE: Resección tumoral ósea segmentaria y su reemplazo con prótesis o injerto estructural de Banco de Tejidos, Resecciones intralesionales de tumores benignos localmente agresivos o recidivantes.
+664014 - MODULO C DE CIRUGIA DE PIERNA Y PIE: Tratamiento de tumores malignos o benignos agresivos con resecciones óseas tumorales segmentarias sin reconstrucción, Tumor benigno de partes blandas subaponeurótico de más de 5 cm agresivo localmente.
+664015 - MODULO D DE CIRUGIA DE PIERNA Y PIE: Resección total ósea como único tratamiento de tibia y peroné, astrágalo o calcáneo.
+664016 - MODULO E DE CIRUGIA DE PIERNA Y PIE: Resección/curetaje de tumor óseo cavitario con relleno óseo.
+664017 - MODULO F DE CIRUGIA DE PIERNA Y PIE: Resección de neuroma, Tumores de partes blandas subaponeuróticos de menos de 5 cm, Biopsia a cielo abierto.
+664018 - MODULO G DE CIRUGIA DE PIERNA Y PIE: Injerto libre de piel como único tratamiento.
+664019 - MODULO A DE CIRUGIA DE CADERA Y PELVIS: Amputación interilioabdominal, Resección ósea tumoral segmentaria con reconstrucción de cualquier tipo.
+664020 - MODULO B DE CIRUGIA DE CADERA Y PELVIS: Desarticulación.
+664021 - MODULO C DE CIRUGIA DE CADERA Y PELVIS: Resección oncológica de tumor que comprometa un compartimiento anatómico sin reconstrucción con injerto.
+664022 - MODULO D DE CIRUGIA DE CADERA Y PELVIS: Resección de tumor cavitario con relleno de injerto óseo.
+664023 - MODULO E DE CIRUGIA DE CADERA Y PELVIS: Extracción de tumor de partes blandas subaponeuróticos de menos de 5 cm, Artrotomía de cadera, Biopsia a cielo abierto.
+664024 - MODULO F DE CIRUGIA DE CADERA Y PELVIS: Resección de tumores de partes blandas extraaponeuróticos o superficiales, Biopsia por punción.
+664025 - MODULO A DE CIRUGIA DE COLUMNA: Tumores vertebrales con resección oncológica y artrodesis por vía anterior y posterior.
+664026 - MODULO B DE CIRUGIA DE COLUMNA: Costotransversectomía, Laminoplastia cervical, Artrodesis cervical anterior con instrumentación, Toracoscopia, Luxofracturas y fracturas cervicales, dorsales y lumbares, Artrodesis lumbar anterior, Artrodesis circunferencial de 360 grados.
+664027 - MODULO C DE CIRUGIA DE COLUMNA: Artrodesis simple de columna dorsal por vía anterior, Artrodesis circunferencial de 360 grados por vía posterior.
+664028 - MODULO D DE CIRUGIA DE COLUMNA: Artrodesis simple de columna cervical por vía posterior, Vertebroplastia y costoplastia, Laminoplastia.
+664029 - MODULO E DE CIRUGIA DE COLUMNA: Retiro de material de osteosíntesis correspondiente a 5 niveles o más, Toillete quirúrgica en infecciones con retiro de material de osteosíntesis.
+664030 - MODULO F DE CIRUGIA DE COLUMNA: Resecciones parciales óseas como único tratamiento, Retiro de material de osteosíntesis hasta 4 niveles, Toillete quirúrgica en infecciones sin retiro de material de osteosíntesis.
+664031 - MODULO G DE CIRUGIA DE COLUMNA: Biopsias a cielo abierto.
+659001 - MÓDULO DE TRATAMIENTO QUIMIOTERÁPICO INTRAPERITONEAL: Citorreducción quirúrgica y administración en la cavidad peritoneal de quimioterapia, con o sin hipertermia, para el tratamiento del pseudomixoma peritoneal y de la carcinomatosis peritoneal por tumores de colon, ovario y estómago.
